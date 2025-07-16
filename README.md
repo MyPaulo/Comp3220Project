@@ -7,8 +7,10 @@ A Java GUI application for managing and accessing City of Windsor's open dataset
 
 or 
 ## 🎬Project Demo
-Watch the full demo on YouTube 
-[![Watch-Demo-Video](https://youtu.be/7TfRqrcnZGA)]
+Watch the full demo on YouTube:  
+[![Gym Management System Demo](https://img.youtube.com/vi/7TfRqrcnZGA/0.jpg)](https://youtu.be/7TfRqrcnZGA)
+
+
 
 ## Features
 - **Guest Access**: Browse and download public datasets

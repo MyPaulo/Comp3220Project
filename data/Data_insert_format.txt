@@ -1,0 +1,26 @@
+311 Windsor Contact Centre Metrics
+
+This dataset outlines a number of key performance indicators in the Windsor 311 Contact Centre calculated on a yearly basis.
+
+The data will be updated annually and posted early in the following year
+
+This dataset outlines a number of key performance indicators in the Windsor 311 Contact Centre calculated on a yearly basis. This information is used by 311 for planning and business purposes and provides customers an understanding of the volume of interactions and overall trends.
+
+
+This set represents data extracted from the Contact Centre phone system as well as through the customer relationship management software.
+
+
+
+
+Calls Answered: A numerical value representing the total number of phone calls answered annually.
+Average Answer Delay: A numeric calculation representing the average amount of time waiting in queue prior to live answer
+Service Level Target: A numeric value which measures how quickly customers are being served, expressed as a percentage of incoming calls being answered within a specific time frame. The Windsor 311 Service Level Target is 75/45 indicating that the goal is to answer 75% of calls within 45 seconds.
+Average Length of Call: A numeric value presented in minutes indicating the average amount of time taken to address a customer telephone interaction.
+First Call Resolution Rate: A numeric calculation indicating the percentage of calls that addressed the customers need on the first call thus eliminating the need to transfer that call to another department.
+311 Knowledge Base Inquiries: A numeric value representing the number of inquiries categorized where questions were answered or information was provided the customer
+311 Service Requests: A numeric value representing the total number of customer initiated or proactive service requests entered in the customer relationship management software
+311 Online: A numeric value representing the total number of customer initiated service requests entered through the online channel.
+311 Texts: A numeric value representing the total number of customer initiated inquiries received and responded to via the text channel.
+11 Email: A numeric value representing the total number of customer initiated inquiries received and responded to via the email channel.
+11 Mobile App: A numeric value representing the total number of customer initiated requests received via the Windsor 311 mobile app.
+

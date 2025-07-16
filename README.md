@@ -5,6 +5,11 @@ A Java GUI application for managing and accessing City of Windsor's open dataset
 ## 🎥 Demo
 [Watch-Demo-Video](project.mp4)
 
+or 
+## 🎬Project Demo
+Watch the full demo on YouTube 
+[![Watch-Demo-Video](https://youtu.be/7TfRqrcnZGA)
+
 ## Features
 - **Guest Access**: Browse and download public datasets
 - **User Management**: Account creation and role-based authentication

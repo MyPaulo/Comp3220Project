@@ -3,7 +3,7 @@
 A Java GUI application for managing and accessing City of Windsor's open datasets with role-based access control.
 
 ## 🎥 Demo
-[Watch-Demo-Video](project.mp4)
+[Download-Demo-Video](project.mp4)
 
 or 
 ## 🎬Project Demo
